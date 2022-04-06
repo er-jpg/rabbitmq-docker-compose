@@ -19,6 +19,7 @@ A simple composer for the RabbitMQ alpine image in docker. It uses the default `
  * Compose and run the image `docker-compose up` or detached with `docker-compose up -d`
  * Check the image status using `docker-compose ps`
  * Shutdown the image with `docker-compose down`
+ * RabbitMQ UI can be acessed via `http://localhost:15672/`
 
 ---
 
